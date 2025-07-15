@@ -6,7 +6,7 @@
 
 윈도우즈 파워셸에서 젯슨보드에 원격접속
 
-> ssh jetson@192.168.0.XXX 
+PS> ssh jetson@192.168.0.XXX 
 
 $ ros2 run dxl sub
 
